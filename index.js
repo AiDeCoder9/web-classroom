@@ -5,3 +5,6 @@
 // git add . //add all files
 // git remote add origin link
 // git remote -v
+
+//create a new file called feature1
+//add commit push
